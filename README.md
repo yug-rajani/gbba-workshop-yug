@@ -13,3 +13,11 @@ What did we learn:
 - git push
 - git pull
 - git clone
+
+Hands-on session 2 learnings:
+
+- git branch
+- git checkout
+- adding new features to repository
+- creating a pull request
+- merging a pull request
